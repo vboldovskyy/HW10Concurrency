@@ -5,7 +5,7 @@ public class Request {
     private HTTPMethod method;
     private String body;
 
-    public Request(HTTPMethod method, String body){
+    public Request(HTTPMethod method, String body) {
         this.method = method;
         this.body = body;
     }
