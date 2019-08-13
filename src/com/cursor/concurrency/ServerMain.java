@@ -1,8 +1,8 @@
 package com.cursor.concurrency;
 
-public class Main {
+public class ServerMain {
 
     public static void main(String[] args) {
-        new AppRunner().start();
+        new ServerRunner().start();
     }
 }
